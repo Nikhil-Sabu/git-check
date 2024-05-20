@@ -5,5 +5,3 @@ john
 
 epam
 jse
-
-nik joe
